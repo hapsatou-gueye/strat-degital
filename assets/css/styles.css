@@ -1,0 +1,36 @@
+.titre {
+  text-align: center;
+}
+
+.accent {
+  color: turquoise;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-gras {
+  font-weight: 900;
+}
+.text-normal {
+  font-weight: 400;
+}
+.text-petit {
+  font-weight: 200;
+}
+
+.image-center {
+  display: flex;
+  width: 100%;
+  justify-content: center; /* align horizontal */
+  align-items: center; /* align vertical */
+}
+
+.padding-top {
+  margin-top: 50px;
+}
+
+header {
+  background-color: limegreen;
+}
