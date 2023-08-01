@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,700;1,100;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;700&family=Roboto:ital,wght@0,100;0,300;0,700;1,100;1,300&display=swap');
+
+html, body{
+    margin: 0;padding: 20;
+    font-family: 'Lato';
+}
+
+.inner{
+    width: 80%;
+    margin: auto;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+}
+
+.image1{
+    margin: 20px;
+    display: flex;
+    position:center;
+}
+.bloc footer-services{
+    margin: auto;
+    display: flex;
+    position:center;
+}

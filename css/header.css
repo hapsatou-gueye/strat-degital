@@ -1,0 +1,40 @@
+.menu{
+    background-image: linear-gradient(rgba(255, 0, 102, 0.5), rgba(241, 90, 201, 0.5)), url("C:\Users\Hapgu\OneDrive\Bureau\Dossier site internet\Geek and food2023-03-30 225305.png"); 
+    width: 100%;
+    line-height: 120px;    
+    
+}
+
+.m-left{
+    float: left;
+}
+.logo{
+    margin: 10;padding: 10;
+    text-transform: uppercase;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 35px;
+    position: left;
+}
+.m-right{
+    float: right;
+
+}
+.m-link{
+    text-decoration: navy;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 10;margin: 0 20px;
+
+}
+h1 {
+    font-size: 2em;
+}    
+h1 span.align_logo {
+    float: right;
+    font-size: 0.5em;
+    vertical-align: bottom;
+}
+
+
+
